@@ -1,0 +1,11 @@
+Dear VueJs,
+
+You are an incredible progressive Javascript framework. You have helped us create and maintain online projects that really work, which are easy to develop, grow and distribute. We become better programmers thanks to you, has fantastic documentation. 
+
+Inspired by the [Thank You Laravel repository](https://github.com/thank-you-laravel/thank-you-laravel), we thank to you, [Evan You](https://github.com/yyx990803), all its [contributors](https://github.com/vuejs/vue/graphs/contributors) and community VueJs.
+
+VueJs, thank you very much.
+
+Signed,
+
+* Leandro Henrique ([@emtudo](https://github.com/emtudo)), Software Engineer, VueJs Lover, Curitiba, Brazil
