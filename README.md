@@ -11,4 +11,5 @@ Signed,
 * Leandro Henrique ([@emtudo](https://github.com/emtudo)), Software Engineer, VueJs Lover, Curitiba, Brazil
 * Marcos Vinicius ([@vmarcosp](https://github.com/vmarcosp)), Full Stack Web Developer, Blumenau, Brazil
 * Eduardo Bizarro ([@edbizarro](https://github.com/edbizarro)), Back-end Developer, VueJs addicted, São Paulo, Brazil
+* Matheus Lima ([@limatheus](https://github.com/limatheus)), Web Developer, VueJs Lover, Três Lagoas, Brazil
 
