@@ -13,4 +13,4 @@ Signed,
 * Eduardo Bizarro ([@edbizarro](https://github.com/edbizarro)), Back-end Developer, VueJs addicted, São Paulo, Brazil
 * David Costa ([@davidcostadev](https://github.com/davidcostadev)), Full Stack Web Developer, VueJs addicted, Rio Grande do Norte, Brazil
 * Matheus Lima ([@limatheus](https://github.com/limatheus)), Web Developer, VueJs Lover, Três Lagoas, Brazil
-
+* Deyvison Rocha ([@deyvisonrocha](http://github.com/deyvisonrocha)), Web Developer & Laravel Lover, Recife, Pernambuco, Brazil
