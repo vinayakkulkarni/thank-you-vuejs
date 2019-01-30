@@ -14,3 +14,4 @@ Signed,
 * David Costa ([@davidcostadev](https://github.com/davidcostadev)), Full Stack Web Developer, VueJs addicted, Rio Grande do Norte, Brazil
 * Matheus Lima ([@limatheus](https://github.com/limatheus)), Web Developer, VueJs Lover, Três Lagoas, Brazil
 * Deyvison Rocha ([@deyvisonrocha](http://github.com/deyvisonrocha)), Web Developer & Laravel Lover, Recife, Pernambuco, Brazil
+* Vinayak Kulkarni ([@deyvisonrocha](http://github.com/vinayakkulkarni)), Frontend Developer, Vue.js Lover, Pune, India
